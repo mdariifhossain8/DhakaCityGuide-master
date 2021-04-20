@@ -1,0 +1,312 @@
+<resources>
+    <string name="app_name">Dhaka City Guide</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="parks">Parks</string>
+    <string name="tourist_site">Tourist Spots</string>
+
+    <!--List of Hotel name in Dhaka, description and their contact details starts here-->
+    <!--Hotel name-->
+    <string name="hotel_one">FARS Hotel and Resorts</string>
+    <string name="hotel_two">Marino Hotel</string>
+    <string name="hotel_three">The Westin Dhaka</string>
+    <string name="hotel_four">Amari Dhaka</string>
+    <string name="hotel_five">THE WAY Dhaka</string>
+    <string name="hotel_six">Innotel Business Boutique Hotel</string>
+    <string name="hotel_seven">Radisson Blu Dhaka Water Garden</string>
+    <string name="hotel_eight">Pan Pacific Sonargaon</string>
+    <string name="hotel_nine">Six Seasons Hotel</string>
+    <string name="hotel_ten">Dhaka Regency Hotel and Resort</string>
+
+    <!--Hotel description-->
+    <string name="decription_hotel_one">
+        Bright hotel with 2 restaurants and a cafe, plus a full-service spa, a gym and a rooftop pool.
+        This polished hotel is 1 km from Baitul Mukarram, Bangladesh's national mosque, 2 km from the Bangladesh National Museum and 4 km from the 17th-century Lalbagh Fort.
+    </string>
+    <string name="decription_hotel_two">Unassuming hotel offering simple rooms and a restaurant, as well as a free breakfast buffet.
+        Set 2 km from Hazrat Shahjalal International Airport, this straightforward hotel is also 14 km from the Sher-e-Bangla National Cricket Stadium and 16 km from Dhaka Zoo.
+    </string>
+    <string name="decription_hotel_three">Elegant quarters in a chic hotel with a club lounge and  5 restaurants, plus an outdoor pool and  a spa.
+    Offering views of Gulshan Lake, this upscale hotel in a high-rise building is 2 km from Banani train station and 10 km from Bangladesh National Museum
+    </string>
+    <string name="decription_hotel_four">Sleek hotel offering polished quarters with city views, plus a trendy rooftop bar and  an Asian eatery.
+        Overlooking Banani Lake, this modern hotel with a dramatic vaulted lobby is 9 km from Jamuna Future Park shopping centre and 11 km from Baitul Mukarram mosque.
+
+    </string>
+    <string name="decription_hotel_five">The Way Dhaka is a cosy and peaceful hotel in Dhaka, near Gulshan Street. It offers you a comfortable room
+        Free breakfast, Laundry service, Kid-friendly, RestaurantHot tub, Fitness center
+    </string>
+
+    <string name="decription_hotel_six">Bright rooms in a unassuming hotel with free breakfast, a grill restaurant and a sauna.
+        Set 6 km from the national assembly building, Jatiyo Sangsad Bhaban, this straightforward hotel in a tower is also 9 km from Baitul Mukarram mosque and 10 km from the Sher-e-Bangla National Stedium.
+
+    </string>
+
+    <string name="decription_hotel_seven">Stylish airport lodging with 3 restaurants and a cigar lounge, plus an outdoor pool and meeting space.
+        Within 5.3 km of Hazrat Shahjalal International Airport, this contemporary hotel is also 8 km from the National Parliament House and 12 km from Lalbagh Fort.
+
+    </string>
+
+    <string name="decription_hotel_eight">Polished property offering understated rooms, international eateries and chic bars, plus a pool.
+        With a lush garden setting, this refined hotel is 2 km from the Bangladesh National Museum and 3 km from Jatiyo Sangsad Bhaban, the Bangladesh National Parliament
+
+    </string>
+
+    <string name="decription_hotel_nine">High-end quarters in a posh hotel offering 4 restaurants, 2 outdoor pools and a spa.
+        Overlooking Gulshan Lake, this refined hotel is 8 km from Hazrat Shahjalal International Airport.
+
+    </string>
+    <string name="decription_hotel_ten">Relaxed airport hotel featuring a rooftop pool, a gym and a spa, plus a 24-hour restaurant and a bar.
+        This informal airport hotel is 3 km from Hazrat Shahjalal International Airport and 4 km from Jamuna Future Park shopping centre.
+
+    </string>
+
+    <!--Location-->
+    <string name="location_hotel_one"> Akram Center, 212 Shahid Syed Nazrul Islam Sharani, Dhaka 1000</string>
+    <string name="location_hotel_two">Sector 4, House No 45, Road No. 11, Dhaka 1230</string>
+    <string name="location_hotel_three">Main Gulshan Avenue, Plot-01, Road 45, Gulshan-2, Dhaka 1212</string>
+    <string name="location_hotel_four">House no. 47, Road No 41, Gulshan 2, Dhaka 1212</string>
+    <string name="location_hotel_five">House No 10/B/2, Road-54/B, Gulshan-2, Dhaka 1212</string>
+    <string name="location_hotel_six">House-23, Block E, Road No 10, Banani Road, Dhaka 1213</string>
+    <string name="location_hotel_seven">Airport Road, Dhaka Cantonment, Dhaka 1206</string>
+    <string name="location_hotel_eight">107 Kazi Nazrul Islam Avenue, Dhaka 1215</string>
+    <string name="location_hotel_nine">House No 19, Road No 96, Gulshan 2, Dhaka 1212</string>
+    <string name="location_hotel_ten">Airport Roundabout, Dhaka 1229</string>
+
+    <!--Website Link-->
+    <string name="web_hotel_one">http://www.farshotelbd.com</string>
+    <string name="web_hotel_two">http://www.marinohotel.com.bd</string>
+    <string name="web_hotel_three">http://www.starwoodhotels.com/westin/index.html?language=en_US</string>
+    <string name="web_hotel_four">https://www.amari.com/dhaka</string>
+    <string name="web_hotel_five">http://thewaydhaka.com</string>
+    <string name="web_hotel_six">http://www.innotelbatonrouge.com</string>
+    <string name="web_hotel_seven">https://www.radissonblu.com/en</string>
+    <string name="web_hotel_eight">https://m.panpacific.com/en/hotels-resorts/bangladesh/dhaka.html</string>
+    <string name="web_hotel_nine">http://sixseasonshotel.com/</string>
+    <string name="web_hotel_ten">http://dhakaregency.com/</string>
+
+    <!--Google map for hotel locations-->
+    <string name="map_hotel_one">https://www.google.com.bd/maps/place/FARS+Hotel+%26+Resorts/@23.7316419,90.4077133,17z/data=!4m12!1m6!3m5!1s0x3755b8f68b88702b:0xadeae2b143bef043!2sFARS+Hotel+%26+Resorts!8m2!3d23.731637!4d90.409902!3m4!1s0x3755b8f68b88702b:0xadeae2b143bef043!8m2!3d23.731637!4d90.409902?hl=en</string>
+    <string name="map_hotel_two">https://www.google.com.bd/maps/place/Marino+Hotel+Banani/@23.7993349,90.4051385,17z/data=!4m5!3m4!1s0x3755c705e50502a1:0x75ccabeb380ee580!8m2!3d23.79933!4d90.4073272?hl=en</string>
+    <string name="map_hotel_three">https://www.google.com.bd/maps/place/The+Westin+Dhaka/@23.7933176,90.4124613,17z/data=!4m12!1m6!3m5!1s0x3755c7a72f17bb83:0x57188ff62fd95026!2sThe+Westin+Dhaka!8m2!3d23.7931842!4d90.4146906!3m4!1s0x3755c7a72f17bb83:0x57188ff62fd95026!8m2!3d23.7931842!4d90.4146906?hl=en</string>
+    <string name="map_hotel_four">https://www.google.com.bd/maps/place/Amari+Dhaka/@23.790561,90.4100836,17z/data=!4m12!1m6!3m5!1s0x3755c70a7610d4f1:0x73d8f4d04735bc67!2sAmari+Dhaka!8m2!3d23.7905561!4d90.4122723!3m4!1s0x3755c70a7610d4f1:0x73d8f4d04735bc67!8m2!3d23.7905561!4d90.4122723?hl=en</string>
+    <string name="map_hotel_five">https://www.google.com.bd/maps/place/THE+WAY+Dhaka/@23.7968169,90.4094213,17z/data=!4m12!1m6!3m5!1s0x3755c708157b63fd:0x6b3426096debb534!2sTHE+WAY+Dhaka!8m2!3d23.796812!4d90.41161!3m4!1s0x3755c708157b63fd:0x6b3426096debb534!8m2!3d23.796812!4d90.41161?hl=en</string>
+    <string name="map_hotel_six">https://www.google.com.bd/maps/place/Innotel+Business+Boutique+Hotel/@23.7922638,90.4044251,17z/data=!4m12!1m6!3m5!1s0x3755c70c21083d3f:0x9d49e5ea17536055!2sInnotel+Business+Boutique+Hotel!8m2!3d23.7922589!4d90.4066138!3m4!1s0x3755c70c21083d3f:0x9d49e5ea17536055!8m2!3d23.7922589!4d90.4066138?hl=en</string>
+    <string name="map_hotel_seven">https://www.google.com.bd/maps/place/Radisson+Blu+Dhaka+Water+Garden/@23.8160459,90.4065313,17z/data=!4m12!1m6!3m5!1s0x3755c6feb6c1b7b1:0x76350c55ebc50c34!2sRadisson+Blu+Dhaka+Water+Garden!8m2!3d23.816041!4d90.40872!3m4!1s0x3755c6feb6c1b7b1:0x76350c55ebc50c34!8m2!3d23.816041!4d90.40872?hl=en</string>
+    <string name="map_hotel_eight">https://www.google.com.bd/maps/place/Pan+Pacific+Sonargaon+Dhaka+Hotel/@23.7495859,90.3923203,17z/data=!4m12!1m6!3m5!1s0x3755b897e97a02b9:0x27f34ccd83ba6ede!2sPan+Pacific+Sonargaon+Dhaka+Hotel!8m2!3d23.749581!4d90.394509!3m4!1s0x3755b897e97a02b9:0x27f34ccd83ba6ede!8m2!3d23.749581!4d90.394509?hl=en</string>
+    <string name="map_hotel_nine">https://www.google.com.bd/maps/place/Six+Seasons+Hotel/@23.7945282,90.4174264,17z/data=!4m12!1m6!3m5!1s0x3755c7a4f705a4b1:0xe0b5315081473ad!2sSix+Seasons+Hotel!8m2!3d23.7945233!4d90.4196151!3m4!1s0x3755c7a4f705a4b1:0xe0b5315081473ad!8m2!3d23.7945233!4d90.4196151?hl=en</string>
+    <string name="map_hotel_ten">https://www.google.com.bd/maps/place/Dhaka+Regency+Hotel+%26+Resort/@23.8295583,90.4190544,20.25z/data=!4m12!1m6!3m5!1s0x3755c65c605d0e0b:0xe91272e017ec415f!2sDhaka+Regency+Hotel+%26+Resort!8m2!3d23.829449!4d90.419273!3m4!1s0x3755c65c605d0e0b:0xe91272e017ec415f!8m2!3d23.829449!4d90.419273?hl=en</string>
+
+
+    <!--List of Restaurants in Dhaka-->
+    <!--Restuarant Name-->
+    <string name="restaurants_one">Tokyo Express</string>
+    <string name="restaurants_two">Voot Restaurant</string>
+    <string name="restaurants_three">Saltz</string>
+    <string name="restaurants_four">Aaheli Kabab and Restaurant</string>
+    <string name="restaurants_five">Attin</string>
+    <string name="restaurants_six">Eat N Enjoy</string>
+    <string name="restaurants_seven">Eat n Pay</string>
+    <string name="restaurants_eight">Re Eat Dhaba</string>
+    <string name="restaurants_nine">Boomers Cafe Banani Branch</string>
+    <string name="restaurants_ten">KFC Restaurant</string>
+
+    <!--Restuarant Address-->
+    <string name="address_restaurants_one">23B Rd No 112, Dhaka 1212</string>
+    <string name="address_restaurants_two"> House 25, Rd No. 11, Dhaka 1230</string>
+    <string name="address_restaurants_three">8 Gulshan North Ave, Dhaka 1212</string>
+    <string name="address_restaurants_four">Ni Tower, Block-E, Road-10, Plot-011213, Enamul Hoq Chowdhury Road, Dhaka</string>
+    <string name="address_restaurants_five">Rd No 27, Dhaka 1212</string>
+    <string name="address_restaurants_six">Shahid Baki Rd, Dhaka 1219</string>
+    <string name="address_restaurants_seven">29 Dakhin Banasree Project Road, Dhaka 1219</string>
+    <string name="address_restaurants_eight">Natore Tower Shopno Food Court,3rd Floor, Road No 2, Dhaka 1230</string>
+    <string name="address_restaurants_nine">A. R. Twoer, 24 Kemal Ataturk Avenue, Dhaka 1213</string>
+    <string name="address_restaurants_ten">Shahid Baki Rd, Dhaka</string>
+
+
+    <!--Restuarant website/phone-->
+    <string name="web_restaurants_one">01776 009 911</string>
+    <string name="web_restaurants_two">01978 650 751</string>
+    <string name="web_restaurants_three">01711 119 692</string>
+    <string name="web_restaurants_four">01841 337 770</string>
+    <string name="web_restaurants_five">02 8 831 064</string>
+    <string name="web_restaurants_six">01759 732 283</string>
+    <string name="web_restaurants_seven">01611 176 736</string>
+    <string name="web_restaurants_eight">01946 259 054</string>
+    <string name="web_restaurants_nine">02 8 818 341</string>
+    <string name="web_restaurants_ten">02 9 351 222</string>
+
+    <!--Restuarant Google Map Location-->
+    <string name="map_restaurants_one"></string>
+    <string name="map_restaurants_two"></string>
+    <string name="map_restaurants_three"></string>
+    <string name="map_restaurants_four"></string>
+    <string name="map_restaurants_five"></string>
+    <string name="map_restaurants_six"></string>
+    <string name="map_restaurants_seven"></string>
+    <string name="map_restaurants_eight"></string>
+    <string name="map_restaurants_nine"></string>
+    <string name="map_restaurants_ten"></string>
+
+
+    <!--List of Parks in Dhaka-->
+
+    <!--Park Name-->
+
+
+    <string name="park_one">Chandrima Udyan</string>
+    <string name="park_two">Bangladesh National Zoo</string>
+    <string name="park_three">Dhanmondi Lake</string>
+    <string name="park_four">National Botanical Garden</string>
+    <string name="park_five">Ramna Park</string>
+    <string name="park_six">Road To BD</string>
+    <string name="park_seven">Rose Garden</string>
+    <string name="park_eight">Sonargaon</string>
+    <string name="park_nine">Bahadur Shah Park</string>
+    <string name="park_ten">Baldha Garden</string>
+
+    <!--Park Information-->
+    <string name="info_park_one">The park is notable for being the place where the former Bangladeshi President, Ziaur Rahman was buried. It is connected to the road with a bridge which runs over the Crescent Lake (from which the park derives its original name). According to a 2014 Dhaka Tribune article, "Illegal establishments, drug addicts, hookers, muggers and petty criminals have robbed the park of most of its beauty.</string>
+    <string name="info_park_two">The Zoo contains many native and non-native animals and wild life, and hosts about three million visitors each year. The name of Zoo has been changed 5th February 2015 from Dhaka Zoo to Bangladesh National Zoo.</string>
+    <string name="info_park_three">The lake was originally a dead channel of the Karwan Bazar River, and was connected to the Turag River. The lake is partially connected with the Begunbari Canal. In 1956, Dhanmondi was developed as a residential area. In the development plan, about 16% of the total area of Dhanmondi was designated for the lake.</string>
+    <string name="info_park_four">The National Botanical Garden of Bangladesh and the Bangladesh National Herbarium make up the largest plant conservation center in Bangladesh, with an area of around 84 hectares (210 acres). It is located at Mirpur in Dhaka, beside the Dhaka Zoo. It was established in 1961. It is one of the greatest botanical gardens of Bangladesh, a knowledge center for nature lovers and botanists and a tourist destination. The herbarium has a scientific collection of approximately 100,000 preserved specimens of plants.</string>
+    <string name="info_park_five">Ramna Park (Bengali: রমনা উদ্যান Rômna Uddan) is a large park and recreation area situated at the heart of Dhaka, the capital city of Bangladesh. This park is one of the most beautiful areas in Dhaka with lots of trees and a lake near its center.</string>
+    <string name="info_park_six">In the evenings, the tomb is illuminated by candles and outside visitors will find a massive pond filled with catfish and a separate tank with gold fish.</string>
+    <string name="info_park_seven">The Rose Garden Palace is a mansion and garden in Old Dhaka. Built in the late 19th century, it became birthplace of the Awami League in 1949, when East Bengali liberal and social democrats converged in Dhaka to form an alternative political force against the Muslim League in Pakistan.
+
+The property is situated on K.M. Das Lane in Tikatully of Old Dhaka, near the modern business district of Motijheel. The mansion was built by a landlord (zaminder) Hrikesh Das. He lived in the mansion for a decade. Later in 1927, he became bankrupt and sold the mansion to landlords of Nabinagar and Brahmanbaria. Due to the unfortunate death of Zamidar Boshuruddin Sarkar of Nabinagar, the family had to sell the mansion to a businessman.</string>
+    <string name="info_park_eight">Sonargaon (Bengali: সোনারগাঁও; also transcribed as Sunārgāon,[1] meaning City of Gold) was a historic administrative, commercial and maritime centre in Bengal. Situated in the centre of the Ganges delta, it was the seat of the medieval Muslim rulers and governors of eastern Bengal. Sonargaon was described by numerous historic travellers, including Ibn Battuta, Ma Huan, Niccolò de Conti and Ralph Fitch as a thriving centre of trade and commerce.</string>
+    <string name="info_park_nine">Bahadur Shah Park, formerly known as Victoria Park, is a park located in Old Dhaka, Bangladesh.[1] It has a memorial dedicated to the soldiers killed by the British in the aftermath of the Indian Mutiny of 1857.[2] It was built in 1858 at the initiative of Nawab Khwaja Abdul Ghani, in the Sadarghat area. It was named Victoria Park until 1947.[3] After that, it was renamed after Bahadur Shah II, the last Mughal emperor.</string>
+    <string name="info_park_ten">Baldha Garden is a botanical garden which spans 3.15 acres (1.27 ha) of land located at Wari in the old part of the city of Dhaka, the capital of Bangladesh. It has a collection of 672 species of plants.[1] The Baldha Garden is now managed as a satellite unit of the National Botanical Garden by the Department of Forestry.</string>
+
+    <!--Park Address-->
+
+    <string name="address_park_one">Crecent Lake Rd, Dhaka</string>
+    <string name="address_park_two">Zoo Rd, Dhaka-1216</string>
+    <string name="address_park_three">Dhanmondi Dhaka</string>
+    <string name="address_park_four">Mirpur, Dhaka</string>
+    <string name="address_park_five">Bhashani Road, Dhaka</string>
+    <string name="address_park_six">94, Bir Uttam C R Datta Road, Dhaka-1205</string>
+    <string name="address_park_seven">13 K.M Das Lane, Tikatully, Dhaka</string>
+    <string name="address_park_eight">Sonargaon, Dhaka</string>
+    <string name="address_park_nine">Johnson Rd, Dhaka</string>
+    <string name="address_park_ten">Tipu Sultan Rd, Dhaka</string>
+
+
+    <!--Park website/phone-->
+    <string name="web_park_one">https://en.wikipedia.org/wiki/Chandrima_Uddan</string>
+    <string name="web_park_two">https://en.wikipedia.org/wiki/Bangladesh_National_Zoo</string>
+    <string name="web_park_three">https://en.wikipedia.org/wiki/Dhanmondi_Lake</string>
+    <string name="web_park_four">https://en.wikipedia.org/wiki/National_Botanical_Garden_of_Bangladesh</string>
+    <string name="web_park_five">https://en.wikipedia.org/wiki/Ramna_Park</string>
+    <string name="web_park_six">0000</string>
+    <string name="web_park_seven">https://en.wikipedia.org/wiki/Rose_Garden_Palace</string>
+    <string name="web_park_eight">https://en.wikipedia.org/wiki/Sonargaon</string>
+    <string name="web_park_nine">https://en.wikipedia.org/wiki/Bahadur_Shah_Park</string>
+    <string name="web_park_ten">https://en.wikipedia.org/wiki/Baldha_Garden</string>
+
+    <!--Park Google map location-->
+
+    <string name="map_park_one"></string>
+    <string name="map_park_two"></string>
+    <string name="map_park_three"></string>
+    <string name="map_park_four"></string>
+    <string name="map_park_five"></string>
+    <string name="map_park_six"></string>
+    <string name="map_park_seven"></string>
+    <string name="map_park_eight"></string>
+    <string name="map_park_nine"></string>
+    <string name="map_park_ten"></string>
+
+
+
+
+
+
+    <!--List of tourist site Dhaka-->
+    <!--Tourist site Name-->
+
+
+    <string name="tourist_one">Ahsan Manzil</string>
+    <string name="tourist_two">Armenian Church</string>
+    <string name="tourist_three">Dhakeshwari Temple</string>
+    <string name="tourist_four">Lalbagh Fort</string>
+    <string name="tourist_five">Liberation War Museum</string>
+    <string name="tourist_six">National Museum</string>
+    <string name="tourist_seven">Museum of Science and Technology</string>
+    <string name="tourist_eight">Shaheed Minar</string>
+    <string name="tourist_nine">National Martyrs’ Memorial</string>
+    <string name="tourist_ten">Star Mosque</string>
+
+    <!--Tourist site info-->
+    <string name="info_tourist_one">Ahsan Manzil (Bengali: আহসান মঞ্জিল, Ahsan Monjil) was the official residential palace and seat of the Nawab of Dhaka.[1] The building is situated at Kumartoli along the banks of the Buriganga River in Dhaka, Bangladesh. Construction was started in 1859 and was completed in 1872.[1] It was constructed in the Indo-Saracenic Revival architecture. It has been designated as a national museum.</string>
+    <string name="info_tourist_two">The Armenian Church (also known as Armenian Apostolic Church of the Holy Resurrection)[1] is a historically significant architectural monument situated in the Armanitola area of old Dhaka, Bangladesh. The church bears testimony to the existence of a significant Armenian community in the region in the 17th and 18th centuries.</string>
+    <string name="info_tourist_three">Dhakeshwari National Temple (Bengali: ঢাকেশ্বরী জাতীয় মন্দির, translit. Ðhakeshshori Jatio Mondir) is a Hindu temple in Dhaka, Bangladesh. It is state-owned, giving it the distinction of being Bangladesh-s National Temple. The name "Dhakeshwari" (ঢাকেশ্বরী Ðhakeshshori) means "Goddess of Dhaka". Since the destruction of Ramna Kali Mandir in 1971 by the Pakistan Army during the Bangladesh Liberation War, the Dhakeshwari Temple has assumed status as the most important Hindu place of worship in Bangladesh.</string>
+    <string name="info_tourist_four">Lalbagh Fort (also Fort Aurangabad) is an incomplete 17th century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh.[1] The construction was started in 1678 AD by Mughal Subahdar Muhammad Azam Shah who was son of Emperor Aurangzeb and later emperor himself. His successor, Shaista Khan, did not continue the work, though he stayed in Dhaka up to 1688.</string>
+    <string name="info_tourist_five">The Liberation War Museum (Bengali: মুক্তিযুদ্ধ যাদুঘর Muktijuddho Jadughôr) is a museum in Segun Bagicha,[1] Dhaka, the capital of Bangladesh, which commemorates the Bangladesh Liberation War that led to the independence of Bangladesh from Pakistan. A museum opened on 22 March 1996, and has more than 21,000 artifacts and exhibits on display in the museum or stored in its archives. It is currently being rebuilt, with the new facilities expected to open in March 2017.</string>
+    <string name="info_tourist_six">The Bangladesh National Museum (Bengali: বাংলাদেশ জাতীয় যাদুঘর), is the national museum of Bangladesh.[1] The museum is well organized and displays have been housed chronologically in several departments like department of ethnography and decorative art, department of history and classical art, department of natural history, and department of contemporary and world civilization. The museum also has a rich conservation laboratory. Nalini Kanta Bhattasali served as the first curator of the museum during 1914–1947.</string>
+    <string name="info_tourist_seven">National Museum of Science and Technology (NMST) (Bengali: জাতীয় বিজ্ঞান ও প্রযুক্তি জাদুঘর) in Dhaka, Bangladesh was founded on April 26, 1965 by the Pakistani government and became a part of Bangladesh s Ministry of Science and Technology following the Bangladesh Liberation War. It was first based in the Dhaka Public Library, and moved a number of times before its permanent home was completed in 1981. The NMST serves as Bangladesh s only science museum and organizes science education activities at a national level.</string>
+    <string name="info_tourist_eight">The Shaheed Minar (Bengali: শহীদ মিনার Shohid Minar lit. "Martyr Monument") is a national monument in Dhaka, Bangladesh, established to commemorate those killed during the Bengali Language Movement demonstrations of 1952 in then East Pakistan. On 21 and 22 February 1952, students from Dhaka University and Dhaka Medical College and political activists were killed when the Pakistani police force opened fire on Bengali protesters who were demanding official status for their native tongue, Bengali.[1] The massacre occurred near Dhaka Medical College and Ramna Park in Dhaka. A makeshift monument was erected on 23 February[2][3] by students of University of Dhaka and other educational institutions, but soon demolished on 26 February[3] by the Pakistani police force.</string>
+    <string name="info_tourist_nine">National Martyrs’ Memorial (Bengali: জাতীয় স্মৃতি সৌধ Jatiya Smriti Saudha) is the national monument of Bangladesh, set up in the memory of the valour and the sacrifice of all those who gave their lives in the Bangladesh Liberation War of 1971, which brought independence and separated Bangladesh from Pakistan. The monument is located in Savar, about 35 km north-west of the capital, Dhaka.</string>
+    <string name="info_tourist_ten">Star Mosque (Bengali: তারা মসজিদ; also known as Tara Masjid), is a mosque located in Armanitola area, Dhaka, Bangladesh. The mosque has ornate designs and is decorated with motifs of blue stars. It was built in the first half of the 19th century by Mirza Golam Pir (Mirza Ahmed Jan).</string>
+
+
+    <!--Tourist site address-->
+
+
+    <string name="address_tourist_one">2/3 Islampur Rd, Dhaka</string>
+    <string name="address_tourist_two">218 Mitford Rd, Dhaka 1100</string>
+    <string name="address_tourist_three">Dhakeshwari Rd, Dhaka</string>
+    <string name="address_tourist_four">Lalbagh Rd, Dhaka</string>
+    <string name="address_tourist_five">5 Segun Bagicha Rd, Dhaka</string>
+    <string name="address_tourist_six">Shahbagh Rd, Dhaka 1000</string>
+    <string name="address_tourist_seven">Shahid Shahabuddin Shorok, Dhaka 1207</string>
+    <string name="address_tourist_eight">Secretariate Road, Dhaka 1000</string>
+    <string name="address_tourist_nine">Nabinagar Dhaka - Aricha Hwy, Savar 1344</string>
+    <string name="address_tourist_ten">Abul Khairat Rd, Dhaka</string>
+
+
+    <!--Tourist site website/phone-->
+    <string name="web_tourist_one">https://en.wikipedia.org/wiki/Ahsan_Manzil</string>
+    <string name="web_tourist_two">https://en.wikipedia.org/wiki/Armenian_Church,_Dhaka</string>
+    <string name="web_tourist_three">https://en.wikipedia.org/wiki/Dhakeshwari_Temple</string>
+    <string name="web_tourist_four">https://en.wikipedia.org/wiki/Lalbagh_Fort</string>
+    <string name="web_tourist_five">https://en.wikipedia.org/wiki/Liberation_War_Museum</string>
+    <string name="web_tourist_six">http://bangladeshmuseum.gov.bd/site/</string>
+    <string name="web_tourist_seven">http://www.nmst.gov.bd/</string>
+    <string name="web_tourist_eight">https://en.wikipedia.org/wiki/Shaheed_Minar,_Dhaka</string>
+    <string name="web_tourist_nine">https://en.wikipedia.org/wiki/National_Martyrs%E2%80%99_Memorial</string>
+    <string name="web_tourist_ten">https://en.wikipedia.org/wiki/Star_Mosque</string>
+
+    <!--Tourist site Google Map location-->
+    <string name="map_tourist_one"></string>
+    <string name="map_tourist_two"></string>
+    <string name="map_tourist_three"></string>
+    <string name="map_tourist_four"></string>
+    <string name="map_tourist_five"></string>
+    <string name="map_tourist_six"></string>
+    <string name="map_tourist_seven"></string>
+    <string name="map_tourist_eight"></string>
+    <string name="map_tourist_nine"></string>
+    <string name="map_tourist_ten"></string>
+
+
+
+
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tag_line"> Your #1 City Guide App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_exit">Exit</string>
+    <string name="todo">TODO</string>
+    <string name="historical_places">Historical Places</string>
+
+</resources>
